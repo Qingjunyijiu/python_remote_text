@@ -54,6 +54,9 @@ print("分支合并的问题测试4"   )
 print("分支合并的问题测试3")
 print("分支合并的问题测试5")
 
-
+<<<<<<< HEAD
 print("add fix01 fot test")
+=======
+print("add main")
 
+>>>>>>> main
